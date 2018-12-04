@@ -19,9 +19,11 @@ Bulk data file upload techniques cause the following issues:
 * Tighter coupling - with file formats such as CSV the order of the fields becomes paramount, as well as the general structure. Backwards compatibility is almost impossible.
 * More infrastructure, leading to greater support and maintenance costs.
 * Slower information gathering - the organisation needs to wait for the regular feed before receiving information as opposed to (potentially) real-time updates
-* The cost of development sits mainly with the organisation and not shared with vendors
+* The cost of development sits mainly with the organisation and is not shared with vendors
 
 ## Solution
+
+Almost invariably a single record API with a [standard message format](../internal-advice/design-guidelines/microservice-message-format.md) is a better solution. It provides greater flexibility, can be delivered far more quickly, can be tested more effectively, can provide real time feedback and risking and is more extensible. The organisation can receive real updates from 3rd parties.......though still giving the flexibility to these 3rd parties to call the APIs in batch if they really need to. It also follows the same pattern that exists everywhere else on the platform. 
 
 ## Example
 
