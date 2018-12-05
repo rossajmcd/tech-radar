@@ -23,8 +23,8 @@ Bulk data file upload techniques cause the following issues:
 
 ## Solution
 
-Almost invariably a single record API with a [standard message format](../../internal-advice/design-guidelines/microservice-message-format.md) is a better solution. It provides greater flexibility, can be delivered far more quickly, can be tested more effectively, can provide real time feedback and risking and is more extensible. The organisation can receive real updates from 3rd parties.......though still giving the flexibility to these 3rd parties to call the APIs in batch if they really need to. It also follows the same pattern that exists everywhere else on the platform. 
+Almost invariably a single record API with a [standard message format](../../internal-advice/design-guidelines/microservice-message-format.md) is a better solution. It provides greater flexibility, can be delivered far more quickly, can be tested more effectively, can provide real time feedback and risking and is more extensible. The organisation can receive real updates from 3rd parties.......though still giving the flexibility to these 3rd parties to call the APIs in batch if they really need to. It also follows the same pattern that exists everywhere else on the platform.
 
 ## Example
 
-## Exception
+## Exceptions

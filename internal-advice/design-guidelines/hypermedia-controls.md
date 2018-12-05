@@ -27,6 +27,6 @@ There are many public APIs that use HATEOAS, and therefore for the developer com
 
 The [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html#level3) is a good entry point into what HATEOAS is.
 
-We represent links on MDTP using the HAL message format.
+We represent links on the customer facing APIs using the HAL message format.
 
 A good example of an almost HATEOAS API being used in the wild is  [Paypal](https://developer.paypal.com/docs/api/overview/)
