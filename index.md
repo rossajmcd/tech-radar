@@ -3,6 +3,7 @@
 This is the tech radar.
 
 * [Internal advice - design-guidelines](internal-advice/design-guidelines/design-guidelines.md)
+* [Internal advice - Principles](internal-advice/principles/principles.md)
 * [External advice - anti-patterns](external-advice/anti-patterns/anti-patterns.md)
 * [Architecture Decision Records](adr.md)
 
