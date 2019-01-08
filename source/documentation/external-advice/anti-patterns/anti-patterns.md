@@ -8,6 +8,6 @@ Please navigate to one of the following pages for details on each of the anti-pa
 
 * [Assumed Upstream Security](assumed-upstream-security.md)
 * [Bulk data load via files](bulk-data-load-via-files.md)
-* [Domain Aware Client Libraries](domain-aware-client-libraries.md)
 * [Coupling through Session State](coupling-through-session-state.md)
+* [Domain Aware Client Libraries](domain-aware-client-libraries.md)
 * [Shared Database](shared-database.md)
