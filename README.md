@@ -1,7 +1,7 @@
 # tech-radar
 Tech Radar
 
-A skeleton tech radar demonstrating raw initial structure before github pages/middleman processing.
+A hybrid tech radar demonstrating raw initial structure before github pages/middleman processing.
 
 ## Getting Started
 
