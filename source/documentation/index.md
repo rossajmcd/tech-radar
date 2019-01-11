@@ -12,7 +12,7 @@ External advice is best practice material we have pulled from the outside world.
 
 Internal advice is material we use within the organisation to permit de-centralisation while maintaining alignment, to increase consistency and reduce further the number of decisions teams need to make.
 
-* [Internal advice - design-guidelines](documentation/internal-advice/design-guidelines/design-guidelines.md)
+* [Internal advice - design-guidelines](internal-advice/design-guidelines/design-guidelines.md)
 * [Internal advice - Principles](internal-advice/principles/principles.md)
 * [Internal advice - Domain modelling](internal-advice/domain-modelling/domains.md)
 * [Architecture Decision Records](adr.md)
