@@ -11,3 +11,4 @@ Please navigate to one of the following pages for details on each of the anti-pa
 * [Coupling through Session State](coupling-through-session-state.md)
 * [Domain Aware Client Libraries](domain-aware-client-libraries.md)
 * [Shared Database](shared-database.md)
+(TODO: add asynchronous and synchronous anti-patterns)
