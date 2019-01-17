@@ -16,3 +16,12 @@
 * Reuse existing services wherever possible
 * Design with the Fallacies of Distributed Computing in mind
 * Code in the open
+* Principle 1.	REST based Interfaces
+* Principle 2.	Data Driven Services
+* Principle 3.	Microservices Architecture
+* Principle 4.	Secure and Control Access
+* Principle 5.	Secure Integration
+* Principle 6.	API First
+* Principle 7.	Design for Scale and Availability
+* Principle 8.	Synchronous Transaction
+
